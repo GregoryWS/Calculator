@@ -1,6 +1,11 @@
 Calculator
 ==========
 
+**Java**
+**MIT License**
+
+==========
+
 This repository stores a very lightweight and simple code that can be used to count numbers.
 
 ==========
