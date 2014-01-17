@@ -1,13 +1,19 @@
 Calculator
 ==========
 
-**Java**
+This is repository contains a source code in **Java** language.
 
-**MIT License**
+You can copy the source code, but please read the **MIT License** first.
 
 ==========
 
 This repository stores a very lightweight and simple code that can be used to count numbers.
+
+==========
+
+**How to Use**
+
+Write this code in an IDE, then run it.
 
 ==========
 
