@@ -1,9 +1,9 @@
 Calculator
 ==========
 
-This is repository contains a source code in **Java** language.
+This is repository contains a source code in **JavaScript** language.
 
-You can copy the source code, but please read the **MIT License** first.
+You may copy the source code, but please read the **MIT License** first.
 
 ==========
 
